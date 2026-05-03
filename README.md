@@ -77,7 +77,7 @@ The dataset contains:
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](PBIdasboard.png)
+![Dashboard](PBIdashboard.png)
 
 ---
 
