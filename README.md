@@ -1,4 +1,4 @@
-# Power-BI-
+# Power-BI-Dashboard
 E-Commerce Sales Dashboard 
 # 🛒 E-Commerce Sales Dashboard
 
